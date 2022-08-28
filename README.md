@@ -2,11 +2,6 @@
 
 ### Sobre
 
-### Para executar
-```
-npm install && npm start
-``` 
-
 ### Funcionalidades
 - [ ] Listagem e compra de itens
 - [ ] Autenticação/Autorização
@@ -17,10 +12,13 @@ npm install && npm start
 - Axios
 - Styled Components
 -
+> #### Para executar ```npm install && npm start```
 
 #### Backend (Node)
 - Express
 - 
+
+> #### Para executar ```npm install && npm run dev```
 
 ### Autores
 > [Gabriel Polveiro](https://github.com/GaPolveiro02)
